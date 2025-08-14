@@ -37,7 +37,17 @@ public class SimpleMathTests
         Assert.Fail();
     }
 
-    // TODO: Add a new test to test the Divide method with two valid numbers
+    [TestMethod]
+    public void Divide_TwoNumbers_ReturnsQuotient()
+    {
+        // Use a few pairs of values to test the Divide method
+        Assert.Fail();
+    }
 
-    // TODO: Add a new test to test the subtract method with two valid numbers
+    [TestMethod]
+    public void Subtract_TwoNumbers_ReturnsDifference()
+    {
+        // Use a few pairs of values to test the Subtract method
+        Assert.Fail();
+    }
 }
